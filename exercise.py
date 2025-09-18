@@ -1,3 +1,4 @@
+#How to make a simple payroll calculator
 print("=== PAYROLL CALCULATOR ===")
 name = input("enter employee name:- ")
 hours = float(input("enter hours worked: "))
@@ -11,3 +12,4 @@ print("=== PAYROLL SUMMARY ===")
 print(f"Employee: {name}")
 print(f"Hours: {hours}")
 print(f"Rate: {rate}")
+
